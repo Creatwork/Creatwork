@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Creatwork
-- 👀 I’m interested in photography and graphic design.
+- 👀 I’m interested in front-end and marketing.
 - 🌱 I’m keep learning everything in my life
 - 📫 Reach me via hello@creat.work
 
